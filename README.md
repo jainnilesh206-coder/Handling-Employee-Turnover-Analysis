@@ -1,4 +1,5 @@
 Employee Turnover Analysis Project
+
 This repository section contains a complete machine learning project focused on predicting employee turnover, understanding the key drivers of attrition, clustering employees who left, handling class imbalance, comparing multiple classification models, and designing retention strategies based on predicted risk probabilities. The project is built from a formal problem statement, a structured HR dataset, and a full Python notebook implementation.
 
 Project Overview
